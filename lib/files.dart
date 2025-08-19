@@ -17,7 +17,11 @@ const List<String> imageFormats = [
   '.webp',
   '.tif',
   '.heic',
-  '.avif'
+  '.avif',
+  '.arw',    // Sony
+  '.nef',    // Nikon
+  '.cr2',    // Canon (older cameras)
+  '.cr3',    // Canon
 ];
 const http = 'http';
 
